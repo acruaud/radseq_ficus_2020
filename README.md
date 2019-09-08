@@ -7,7 +7,7 @@ Pipeline and scripts are provided "as they are".
 The radseq_ficus_2019.html file describes the pipeline used for the assembly of paired reads and the retrieval of RAD loci from genomes of outgroup species. You can download the repository and open the radseq_ficus_2019.html file in a browser to take a look to the pipeline. 
 Required scripts are in the scripts directory. 
 
-The script directory also contains the R script we developped for principal component analysis of loci to search for possible structure and decrease potential bias that could alter tree estimates. An example data set is provided in the example directory to run the script.
+The scripts directory also contains the R script we developped for principal component analysis of loci to search for data structure and decrease potential bias that could alter tree estimates. An example data set is provided in the example directory to run the script.
 
 If you find something useful in there, please cite the publication:
 
