@@ -1,6 +1,6 @@
 # radseq_ficus_2019
 
-This repo contains the pipeline and scripts used for the Rasplus et al paper on the deep phylogeny of Ficus spp based on RADseq.
+This repo contains the pipeline and scripts used for the Rasplus <i>et al</i> paper on the deep phylogeny of <i>Ficus</i> spp based on RADseq.
 
 Pipeline and scripts are provided "as they are".
 
