@@ -4,6 +4,12 @@ This repo contains the pipeline and scripts used for the Rasplus <i>et al</i> pa
 
 Pipeline and scripts are provided "as they are".
 
+You can download the repository and
+
+i) open the radseq_ficus_2019.html file in a browser to take a look to the pipeline used for the assembly of paired reads and the retrieval of RAD loci from genomes of outgroup species. Required scripts are in the "scripts" directory.
+
+ii) 
+
 The radseq_ficus_2019.html file describes the pipeline used for the assembly of paired reads and the retrieval of RAD loci from genomes of outgroup species. You can download the repository and open the radseq_ficus_2019.html file in a browser to take a look to the pipeline. 
 Required scripts are in the scripts directory. 
 
