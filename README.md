@@ -6,7 +6,7 @@
  
 When you download the repository you have access to two directories
  
- i) assembly_R1R2 that contains the pipeline used for the assembly of paired reads and the retrieval of RAD loci from genomes of outgroup species (radseq_ficus_assemblyR1R2_pipeline.html). Required scripts are in the "scripts" directory.
+ i) assembly_R1R2 that contains the pipeline used for the assembly of paired reads and the retrieval of RAD loci from genomes of outgroup species (radseq_ficus_assemblyR1R2.html). Required scripts are in the "scripts" directory.
  
  ii) PCA that contains i) the R workflow to perform PCA analysis to identify potential bias that could alter tree estimates, ii) example file.
  
