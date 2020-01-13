@@ -1,22 +1,18 @@
-# radseq_ficus_2019
-
-This repo contains the pipeline and scripts used for the Rasplus <i>et al</i> paper on the deep phylogeny of <i>Ficus</i> spp based on RADseq.
-
-Pipeline and scripts are provided "as they are".
-
-You can download the repository and
-
-i) open the radseq_ficus_2019.html file in a browser to take a look to the pipeline used for the assembly of paired reads and the retrieval of RAD loci from genomes of outgroup species. Required scripts are in the "scripts" directory.
-
-ii) 
-
-The radseq_ficus_2019.html file describes the pipeline used for the assembly of paired reads and the retrieval of RAD loci from genomes of outgroup species. You can download the repository and open the radseq_ficus_2019.html file in a browser to take a look to the pipeline. 
-Required scripts are in the scripts directory. 
-
-The scripts directory also contains the R script we developped for principal component analysis of loci to search for data structure and decrease potential bias that could alter tree estimates. An example data set is provided in the example directory to run the script.
+# radseq_ficus_2020
+ 
+ This repo contains the pipeline and scripts used for the Rasplus et al paper on the deep phylogeny of Ficus spp based on RADseq.
+ 
+ Pipeline and scripts are provided "as they are".
+ 
+When you download the repository you have access to two directories
+ 
+ i) assembly_R1R2 that contains the pipeline used for the assembly of paired reads and the retrieval of RAD loci from genomes of outgroup species (radseq_ficus_assemblyR1R2_pipeline.html). Required scripts are in the "scripts" directory.
+ 
+ ii) PCA that contains i) the R workflow to perform PCA analysis to identify potential bias that could alter tree estimates, ii) example file.
+ 
 
 If you find something useful in there, please cite the publication:
-
-xxxxxxx
-
+ 
+ xxxxxxx
+ 
 Thanks !
