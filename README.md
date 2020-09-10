@@ -13,6 +13,6 @@ You may download the repository to have access to two directories :
 
 If you find something useful in there, please cite the publication:
  
- xxxxxxx
+Rasplus J-Y, Rodriguez LJ, Sauné L, Peng Y-Q, Bain A, Kjellberg F, Harrison RD, Pereira RAS, Ubaidillah R, Tollon-Cordet C, Gautier M, Rossi J-P, and Cruaud A. in press. Exploring systematic biases, rooting methods and morphological evidence to unravel the evolutionary history of the genus Ficus (Moraceae). Cladistics. [preprint bioRxiv : https://doi.org/10.1101/2020.04.15.042259]
  
 Thanks !
